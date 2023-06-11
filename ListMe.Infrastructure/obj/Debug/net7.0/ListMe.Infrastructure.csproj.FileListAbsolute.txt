@@ -1,0 +1,15 @@
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\bin\Debug\net7.0\ListMe.Infrastructure.deps.json
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\bin\Debug\net7.0\ListMe.Infrastructure.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\bin\Debug\net7.0\ListMe.Infrastructure.pdb
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\bin\Debug\net7.0\ListMe.Domain.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\bin\Debug\net7.0\ListMe.Domain.pdb
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.AssemblyInfo.cs
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.csproj.CopyComplete
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\refint\ListMe.Infrastructure.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ListMe.Infrastructure.pdb
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Infrastructure\obj\Debug\net7.0\ref\ListMe.Infrastructure.dll

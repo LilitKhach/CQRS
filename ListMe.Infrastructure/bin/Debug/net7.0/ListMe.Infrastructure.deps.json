@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ListMe.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ListMe.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ListMe.Infrastructure.dll": {}
+        }
+      },
+      "ListMe.Domain/1.0.0": {
+        "runtime": {
+          "ListMe.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListMe.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListMe.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

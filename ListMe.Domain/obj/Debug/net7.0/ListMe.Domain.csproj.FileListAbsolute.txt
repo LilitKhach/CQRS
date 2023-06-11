@@ -1,0 +1,12 @@
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\bin\Debug\net7.0\ListMe.Domain.deps.json
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\bin\Debug\net7.0\ListMe.Domain.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\bin\Debug\net7.0\ListMe.Domain.pdb
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.csproj.AssemblyReference.cache
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.AssemblyInfoInputs.cache
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.AssemblyInfo.cs
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\refint\ListMe.Domain.dll
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ListMe.Domain.pdb
+C:\Users\37493\Source\Repos\ListMe.API\ListMe.Domain\obj\Debug\net7.0\ref\ListMe.Domain.dll
